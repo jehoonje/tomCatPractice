@@ -1,8 +1,2 @@
-pluginManagement {
-    repositories {
-        gradlePluginPortal()
-        mavenCentral()
-    }
-}
+rootProject.name = 'springstudy'
 
-rootProject.name = 'tomCatPractice'
